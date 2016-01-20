@@ -57,7 +57,7 @@ grails.project.dependency.resolution = {
 
         build ':tomcat:7.0.42'
 
-        compile ':likeable:0.1.2'
+        compile ':likeable:0.4.0'
         compile ":pretty-time:2.1.3.Final-1.0.1"
 
         compile ':audit-logging:1.1.0'
